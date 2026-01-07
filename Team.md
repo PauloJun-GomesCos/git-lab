@@ -13,7 +13,7 @@ Please enter your `first-name` in the list below:
 08. D. Y.
 09. Diogo F. (diogodafebre)
 10. Gasser Basile
-11. G. P.
+11. G. Paulo (@PauloJun-GomesCos)
 12. M. Bryan
 13. U. Jessica
 14. V. J.
